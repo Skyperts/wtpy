@@ -11,6 +11,8 @@ dev分支测试
 # wtpy
 这是**WonderTrader**针对`Python3`适配的子框架
 
+my-dev 分支测试
+
 # wtpy子框架简介
 + apps子模块
     > - WtBtAnalyst.py	回测分析模块，主要是利用回测生成的数据，计算各项回测指标，并输出到`excel`文件
