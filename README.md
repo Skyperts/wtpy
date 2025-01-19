@@ -6,6 +6,8 @@
     <img src ="https://img.shields.io/badge/license-MIT-orange"/>
 </p>
 
+dev分支测试
+
 # wtpy
 这是**WonderTrader**针对`Python3`适配的子框架
 
